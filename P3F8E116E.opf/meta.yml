@@ -1,0 +1,31 @@
+id: P3F8E116E
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG985
+  instance_id: http://purl.bdrc.io/resource/IE1KG985
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྐང་རྗེས་དམར་པོ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - chi zi zhi qing
+  author: http://purl.bdrc.io/resource/P1KG986
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    22b5d78f93aa45ea9f687cc49ef46b74:
+      title: པོད ༡་རྐང་རྗེས་དམར་པོ
+      volume_number: 1
+      base_file: UT1KG985_I1KG1131_0000.txt
+      reference: http://purl.bdrc.io/resource/VL29167AEFDA11EDBE
+      image_group: I1KG1131
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG985
+  - http://purl.bdrc.io/resource/W1KG985
+  ocr_software: Namsel
+created_at: '2021-12-22T11:01:22.271437'
+last_modified_at: '2021-12-22T11:01:22.271444'
